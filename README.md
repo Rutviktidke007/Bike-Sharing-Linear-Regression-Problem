@@ -31,26 +31,6 @@ The dataset contains **5,000+ records** with features such as **seasonality, tem
 - **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Statsmodels)
 - **Linear Regression, Feature Selection (VIF, p-values), Data Visualisation**
 
-## Repository Structure
-```
-📂 Bike-Sharing-Analysis
- ├── 📄 dataset.csv
- ├── 📄 bike_sharing_analysis.ipynb
- ├── 📄 README.md
- ├── 📄 eda_plots.png
- ├── 📄 final_model.pkl
-```
-
-## How to Run the Project
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Rutviktidke007/Bike-Sharing-Analysis.git
-   ```
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open and run the Jupyter Notebook (`bike_sharing_analysis.ipynb`).
 
 ## Conclusion
 This project successfully identifies the key factors influencing bike demand using **Linear Regression**, providing actionable insights for business strategy and demand forecasting. 
